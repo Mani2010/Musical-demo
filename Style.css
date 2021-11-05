@@ -1,0 +1,19 @@
+html
+{
+    
+    scroll-behavior: smooth;
+
+     background:linear-gradientbackground: background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(45,214,179,1) 0%, rgba(45,72,214,1) 95%);
+  background-repeat:no repeat; font-family:'roboto', sans-serif; 
+    
+    
+}
+body{
+    
+    text-align: center;
+    
+    
+    
+    
+}
